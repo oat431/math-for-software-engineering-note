@@ -1,6 +1,13 @@
 # math-for-com-sci-note
 Math is an essential element to be a better software engineer so I need math in my life
 
+here some pretty math equations
+# $e^{\pi i}+1=0$
+
+# $f(X,n) = X_n + X_{n-1}$
+
+# sometimes I do $\mu \alpha \tau \eta$
+
 Mathematical Foundations (From Swebok 3.0)
 1. Set, Relations, Functions
 2. Basic Logic
