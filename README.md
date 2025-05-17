@@ -1,30 +1,75 @@
 # math-for-com-sci-note
+
 Math is an essential element to be a better software engineer so I need math in my life
 
-here some pretty math equations
-# $e^{\pi i}+1=0$
+## here some pretty math equations
 
-# $f(X,n) = X_n + X_{n-1}$
+- ### $e^{\pi i}+1=0$
 
-# sometimes I do $\mu \alpha \tau \eta$
+- ### $f(X,n) = X_n + X_{n-1}$
 
-Mathematical Foundations (From Swebok 3.0)
-1. Set, Relations, Functions
-2. Basic Logic
-3. Proof Techniques
-4. Basics of Counting
-5. Graphs and Trees
-6. Discrete Probability
-7. Finite State Machines
-8. Grammars
-9. Numerical Precision, Accuracy, and Errors
-10. Number Theory
-11. Algebraic Structures
+- ### sometimes I do $\mu \alpha \tau \eta$
 
-Math for Software engineering
-- calculus
-- discreate math
-- linear algrebra
-- statistic
+## Mathematical Foundations (From Swebok 4.0)
+
+### 1. Basic Logic
+
+- #### Propositional Logic
+
+- #### Predicate Logic
+
+### 2. Proof Techniques
+
+- #### Direct Proof
+
+- #### Proof by Contradiction
+
+- #### Proof by Induction
+
+- #### Proof by Example
+
+### 3. Set, Relations, Functions
+
+- #### Set Operations
+
+- #### Properties at Set
+
+- #### Relations and Functions
+
+### 4. Graphs and Trees
+
+- #### Graphs
+
+- #### Trees
+
+### 5. Finite State Machines
+
+### 6. Grammars
+
+- #### Language Recognition
+
+### 7. Number Theory
+
+- #### Types of Numbers
+
+- #### Divisibility
+
+- #### Prime Numbers
+
+- #### Greatest Common Divisor
+
+### 8. Basics of Counting
+
+### 9. Discrete Probability
+
+### 10. Numerical Precision, Accuracy, and Errors
+
+### 11. Algebraic Structures
+
+- #### Groups
+
+- #### Rings
+
+### 12. Calculus
 
 Life long learning goal with online material
